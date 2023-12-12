@@ -7,7 +7,7 @@ Hi! In this repo is a slightly insecure IIS web.config file, and an automated CI
 To get started, you have to perform the following:
 1. Fork this repo - done
 2. Enable actions - done
-3. Set a valid `LABS_AUTH` repository secret done
+3. Set a valid `XXX` repository secret done
 4. Update and commit a change to this readme - this will kick off the first action which you can track by clicking "Actions" above
 5. Look at the output of the "Labs Validator" job step, and see what issues are being reported, and then try and address it by committing fixes to this repo!
 6. After the fixes are in place, they will be validated against the SafeStack platform, and you will receive a result token which you must supply to complete the challenge.
